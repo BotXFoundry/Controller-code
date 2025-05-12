@@ -1,0 +1,5 @@
+menuconfig MODULES_BOT_RC
+	bool "bot_rc"
+	default n
+	---help---
+		Enable support for bot_rc

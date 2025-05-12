@@ -1,0 +1,5 @@
+menuconfig MODULES_BOT_COM_HANDLER
+	bool "bot_com_handler"
+	default n
+	---help---
+		Enable support for bot_com_handler

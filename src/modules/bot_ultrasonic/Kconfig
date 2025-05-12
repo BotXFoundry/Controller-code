@@ -1,0 +1,5 @@
+menuconfig MODULES_BOT_ULTRASONIC
+	bool "bot_ultrasonic"
+	default n
+	---help---
+		Enable support for bot_ultrasonic

@@ -1,0 +1,6 @@
+menuconfig MODULES_BOT_MOTION_CONTROL
+	bool "bot_motion_control"
+	default n
+	---help---
+		Enable support for bot_motion_control
+

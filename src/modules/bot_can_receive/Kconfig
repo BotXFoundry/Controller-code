@@ -1,0 +1,5 @@
+menuconfig MODULES_BOT_CAN_RECEIVE
+	bool "bot_can_receive"
+	default n
+	---help---
+		Enable support for bot_can_receive

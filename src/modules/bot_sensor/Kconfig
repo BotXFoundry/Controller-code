@@ -1,0 +1,5 @@
+menuconfig MODULES_BOT_SENSOR
+	bool "bot_sensor"
+	default n
+	---help---
+		Enable support for bot_sensor
